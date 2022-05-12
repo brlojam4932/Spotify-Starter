@@ -1,7 +1,7 @@
 let fs = require("fs");
 let axios = require("axios");
 
-let media = ["JTwinkle - Copy.mp3", "JTwinkle.mp3", "NonFungible.png"]; //"JTiger.mg3", "JTwinkle.mp3", "NonFungible.png"
+let media = ["hard_acid.mp3", "JTwinkle.mp3", "NonFungible.png"]; //"JTiger.mg3", "JTwinkle.mp3", "NonFungible.png"
 let ipfsArray = [];
 let promises = [];
 
