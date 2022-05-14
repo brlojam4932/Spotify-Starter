@@ -8,7 +8,7 @@ import Spotify from "./images/Spotify.png";
 import { SearchOutlined, DownCircleOutlined } from '@ant-design/icons';
 import AudioPlayer from './components/AudioPlayer';
 
-const { Header, Footer, Sider, Content } = Layout;
+const { Footer, Sider, Content } = Layout;
 
 
 const App = () => {

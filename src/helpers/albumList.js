@@ -2,7 +2,7 @@ export const library = [
   {
     title: "Non Fungi Music",
     image: "https://ipfs.moralis.io:2053/ipfs/QmPQea1kVLyRJVFrUqPWX33ypAg3H2H2uBw4c7xA25x9ZB/media/2",
-    contract: "0xfc793568A70E156Fa8e7fcf1C1060c463361E45c"
+    contract: "0xab898F703Eb952B852c74A7a4aB086B33742515F"
   },
   {
     title: "Hyperspace",

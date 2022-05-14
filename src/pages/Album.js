@@ -28,7 +28,7 @@ const Album = ({ setNftAlbum }) => {
             </div>
             <div>
               {albumDetails && JSON.parse(albumDetails[0].metadata).year} -{" "}
-              {albumDetails && JSON.parse(albumDetails.length)} Songs
+              {albumDetails && (albumDetails.length)} Songs
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ const Album = ({ setNftAlbum }) => {
         }
       </div>
     </>
-  )
+  );
 };
 
 export default Album;

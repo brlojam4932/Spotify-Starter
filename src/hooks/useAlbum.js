@@ -9,8 +9,8 @@ export const useAlbum = (contract) => {
   const [albumDetails, setAlbumDetails] = useState();
 
   const fetchAlbum = async () => {
-    return await token
-      .getAllTokenIds({
+    return await token.getAllTokenIds
+      ({
         address: contract,
         chain: "mumbai",
       })
